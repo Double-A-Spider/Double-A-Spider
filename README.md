@@ -36,7 +36,7 @@
 <br>
 <br>
 
-**"The Best Things In Life Are On The Other Side Of Your Fear"**
+**"It's Okay To Not Be Okay, But Through Great Suffering Comes Redemption"**
 
 **Check Out [Proton Mail](https://proton.me/mail) & [Proton VPN](https://protonvpn.com).**
 
