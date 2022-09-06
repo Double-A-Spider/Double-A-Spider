@@ -11,23 +11,14 @@
 </div>
 </div>
 <br>
-<br>
 
-
+<h3>🛠 Tech Stack</h3>
 <ol>
   <li> 📧 How To Reach Me? .... I Reach You </li> 
   <li> 💻 I’m Working In .... Python3 & Bash Shell </li>
   <li> 👨‍💻 I'm Also Working On.... Ethical Hacking </li>
   <li>Fourth item</li>
 </ol>
-
-
-
-
-
-
-
-
 
 **The Best Things In Life Are On The Other Side Of Fear**
 
@@ -40,4 +31,5 @@ Check Out [Proton Mail](https://proton.me/mail) & [Proton VPN](https://protonvpn
 </a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 </p><br>
-
+<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"></a>
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
