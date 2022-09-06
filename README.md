@@ -16,11 +16,11 @@
 - Online Courses For Python3, Bash, Ruby
 - Writing & Business Development
 - Website Development
-- Ethical Hacking 
+- Ethical Hacking 👨‍💻
 
 #### :muscle: Things I Challenging Myself With:
 - Eliminating Unproductive Time 
-- Learning 3 Hours Per Day
+- Learning & Business Development 6 Hours Per Day
 - Exercising 5 Days Per Week
 
 #### How To 📧 Me:
