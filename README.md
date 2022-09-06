@@ -24,7 +24,7 @@
 - Exercising 5 Days Per Week
 
 #### How To 📧 Me:
-- How You Reach Me? .... You Can't, I Reach You
+- How You Reach Me? .... You Can't, I Reach You....Unless (See Below)
 - You Can Reach Me Here -----> -----> -----> ----->[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PacmanNinja)
 
 #### You Won't Find Me On The Below 🖥️
