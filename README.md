@@ -1,4 +1,4 @@
-## PacmanNinja - Is Everywhere ✝ 👑 ♾️ 
+## My Spider Web - Is Everywhere ✝ 👑 ♾️ 
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy-downsized.gif" width="108"/> 
@@ -21,7 +21,6 @@
 #### :muscle: Things I Challenging Myself With:
 - Eliminating Unproductive Time 
 - Learning & Developing Myself Physically, Mentally, & Emotionally
-- Exercising 5 Days Per Week
 
 #### How To 📧 Me:
 - How You Reach Me? .... You Can't, I Reach You....Unless (See Below)
