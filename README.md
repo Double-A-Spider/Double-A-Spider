@@ -37,7 +37,7 @@
 
 **"It's Okay To Not Be Okay, But Through Great Suffering Comes Redemption"**
 
-**Check Out [Proton Mail](https://proton.me/mail) & [Proton VPN](https://protonvpn.com).**
+**Check Out [Proton VPN](https://protonvpn.com).**
 <br>
 
 #### My Simple Creation!
